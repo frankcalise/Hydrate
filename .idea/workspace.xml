@@ -13,6 +13,7 @@
     <file path="$PROJECT_DIR$/Hydrate/src/main/res/values-v11/styles.xml" changelist="118f8bf3-ea91-4dc0-b39a-f28ddca59312" time="1370446642795" ignored="false" />
     <file path="$PROJECT_DIR$/Hydrate/src/main/res/values-v14/styles.xml" changelist="118f8bf3-ea91-4dc0-b39a-f28ddca59312" time="1370446642795" ignored="false" />
     <file path="$PROJECT_DIR$/Hydrate/src/main/res/values-sw600dp/dimens.xml" changelist="118f8bf3-ea91-4dc0-b39a-f28ddca59312" time="1370446642795" ignored="false" />
+    <file path="/Dummy.txt" changelist="118f8bf3-ea91-4dc0-b39a-f28ddca59312" time="1370446900201" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +90,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -102,7 +111,7 @@
     <option name="width" value="1900" />
     <option name="height" value="1040" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -311,17 +320,34 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="118f8bf3-ea91-4dc0-b39a-f28ddca59312" name="Default" comment="" />
       <created>1370446632526</created>
       <updated>1370446632526</updated>
-      <workItem from="1370446641588" duration="124000" />
+      <workItem from="1370446641588" duration="283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124000" />
+    <option name="totallyTimeSpent" value="283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="22" width="1900" height="1040" extended-state="0" />
