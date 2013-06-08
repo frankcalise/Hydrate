@@ -44,6 +44,7 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
             }
         });
 
+        // Add tabs to the action bar
         for (int i = 0; i < mMainFragmentPagerAdapter.getCount(); i++) {
             actionBar.addTab(
                     actionBar.newTab()
